@@ -1,7 +1,8 @@
 # covid-19
+طراحی توسط pyqt5
 
-pyqt5
-python
+برنامه نویسی با python
 
 Instagran: @saeedsj01
+
 Telegram: @saeedsj01
