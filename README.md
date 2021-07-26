@@ -3,6 +3,6 @@
 
 برنامه نویسی با python
 
-Instagran: @saeedsj01
+Instagram: @saeedsj01
 
 Telegram: @saeedsj01
